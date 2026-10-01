@@ -1,0 +1,4 @@
+# app-ads.txt for apps published by zpzpzheng-glitch
+# AdMob-only monetization.
+
+google.com, pub-2595353652590381, DIRECT, f08c47fec0942fa0
